@@ -4,6 +4,8 @@ PayStream is an enterprise-grade payment processing gateway and double-entry fin
 
 It simulates high-volume payment infrastructure used at financial technology leaders such as **Visa, Stripe, and Fidelity Investments**. It guarantees **zero double-charging (Idempotency)** during network retries and enforces **double-entry accounting consistency** with database optimistic locking (`@Version`).
 
+**Live demo:** [paystream-one.vercel.app](https://paystream-one.vercel.app/)
+
 ---
 
 ##  Interactive Web Dashboard
